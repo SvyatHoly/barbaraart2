@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdef19eae4e737a8812f1071c3e472b1",
+    "revision": "afbe3a32a2296f60f7db8328a8e11e94",
     "url": "/barbaraart2/index.html"
   },
   {
-    "revision": "c00909a1fa0dfab578ca",
+    "revision": "4331fe57f36e1996e110",
     "url": "/barbaraart2/static/css/2.49e8f292.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbaraart2/static/css/main.c25e2a37.chunk.css"
   },
   {
-    "revision": "c00909a1fa0dfab578ca",
-    "url": "/barbaraart2/static/js/2.ee19bca1.chunk.js"
+    "revision": "4331fe57f36e1996e110",
+    "url": "/barbaraart2/static/js/2.19771d75.chunk.js"
   },
   {
     "revision": "bbfe46c270415f0400e3",
